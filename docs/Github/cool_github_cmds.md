@@ -4,4 +4,6 @@
 
 Makes a compressed file of a git project but its clean! Like it follows .gitignore etc. Very cool!
 
-The manual can be found [here](https://git-scm.com/docs/git-archive)
+Here is a [manual][1] to do this!
+
+[1]: https://git-scm.com/docs/git-archive
